@@ -9,9 +9,13 @@ body {
       height: 90px;
       width: 100%;
       margin: 8px 8px 0 8px;
+      color: gray;
       
   }
   /* general */
+  .top-container {
+    background-color: gray;
+  }
   .container {
     background-color: antiquewhite;
     padding-top: 20px;
@@ -22,5 +26,11 @@ body {
   /* image */
   img{
       margin: 20px;
+  }
+  /* footer */
+  .nav {
+    height: 90px;
+    width: 100%;
+    background-color: gray;
   }
   
